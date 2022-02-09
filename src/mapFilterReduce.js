@@ -6,7 +6,7 @@ let cart = [
     {id:5, productName:"Kitap", quantity:3, unitPrice:30},
     {id:6, productName:"Pot", quantity:5, unitPrice:150},
 ]
-
+console.log('merhaba')
 console.log("<ul>")
 cart.map(product=>{
     console.log("<li>"+product.productName + " : " 
