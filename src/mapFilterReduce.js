@@ -8,6 +8,7 @@ let cart = [
 ]
 console.log('merhaba')
 console.log('merhaba')
+console.log('merhaba')
 console.log("<ul>")
 cart.map(product=>{
     console.log("<li>"+product.productName + " : " 
