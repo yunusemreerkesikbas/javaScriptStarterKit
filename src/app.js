@@ -27,6 +27,7 @@ for(let i = 0;i<konutKredileri.length;i++){
 }
 console.log("</ul>")
 console.log("</ul>")
+console.log("</ul>")
 
 {/* <ul>
     <li>Konut kredisi</li>
